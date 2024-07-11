@@ -7,6 +7,9 @@ A doctor appointment flutter app crafted with powerful packages such as dio, tab
 Clone the repo. Run flutter pub get . Run on windows platform , web or emulator/physical device.
 Clone the laravel repo, create .env with mysql login credentials. Run composer install. Run npm install then npm run dev. You have to run php artisan migrate to seed database then run server php artisan serve.
 
+### Video Demo
+https://github.com/GisoreB/doctor_appointment_app/assets/144854877/82945575-b3f7-4fc3-b7df-bd7aae8fc210
+
 ### Screenshots
 ![Screenshot 2024-07-11 110356](https://github.com/GisoreB/doctor_appointment_app/assets/144854877/ac0fd5c4-1690-4fc8-a657-ff1ec312c90d)
 ![Screenshot 2024-07-11 110335](https://github.com/GisoreB/doctor_appointment_app/assets/144854877/ea723175-b3a0-4de1-be97-2b461269f804)
@@ -22,9 +25,5 @@ Clone the laravel repo, create .env with mysql login credentials. Run composer i
 ![Screenshot 2024-07-11 110510](https://github.com/GisoreB/doctor_appointment_app/assets/144854877/4a658849-f719-4031-986a-f08085da6721)
 ![Screenshot 2024-07-11 110413](https://github.com/GisoreB/doctor_appointment_app/assets/144854877/ce16ab80-9697-43ef-bdc5-99b807020ec6)
 
-### Video Demo
-
-
-https://github.com/GisoreB/doctor_appointment_app/assets/144854877/82945575-b3f7-4fc3-b7df-bd7aae8fc210
 
 
