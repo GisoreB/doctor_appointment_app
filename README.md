@@ -21,3 +21,10 @@ Clone the laravel repo, create .env with mysql login credentials. Run composer i
 ![Screenshot 2024-07-11 084519](https://github.com/GisoreB/doctor_appointment_app/assets/144854877/e4f4d537-2eb9-4a2e-bc95-867333267d7d)
 ![Screenshot 2024-07-11 110510](https://github.com/GisoreB/doctor_appointment_app/assets/144854877/4a658849-f719-4031-986a-f08085da6721)
 ![Screenshot 2024-07-11 110413](https://github.com/GisoreB/doctor_appointment_app/assets/144854877/ce16ab80-9697-43ef-bdc5-99b807020ec6)
+
+### Video Demo
+
+
+https://github.com/GisoreB/doctor_appointment_app/assets/144854877/82945575-b3f7-4fc3-b7df-bd7aae8fc210
+
+
